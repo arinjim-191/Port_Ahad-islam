@@ -83,7 +83,7 @@ h3{
     margin-bottom: 50px;
 }
 h4{
-    color: rgb(107, 161, 209);
+    color: #6ba1d1;
     letter-spacing: 2px;
     font-size: 20px;
 }
@@ -102,16 +102,19 @@ h4{
     border-radius: 30px;
 
 }
-.newslatter form input:last-child{
+.newslatter form input:last-child {
     position: absolute;
+    
     display: inline-block;
     outline: none;
     border: none;
-    padding: 10px 30px;
+    padding: 10px 40px;
     border-radius: 30px;
     background-color: #f9004d;
-    color: white;
-    box-shadow: 0px 0px 5px #000, 0px 0px 15px  ;
+    color: #ffffffea;
+    box-shadow: 0px 0px 5px #1b1b1b8a, 0px 0px 10px;
+    right: 5px;
+    top: 5px;
 }
 .about{
     width: 100%;
