@@ -211,3 +211,11 @@ button:hover{
     overflow: hidden;
     text-align: center;
 }
+.card i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 0px;
+    color: #f9004d;
+    
+}
