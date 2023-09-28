@@ -217,5 +217,18 @@ button:hover{
     text-align: center;
     margin: 25px 0px;
     color: #f9004d;
-    
+
+}
+h5{
+    color: white;
+    font-size: 23px;
+    margin-bottom: 15px;
+
+}
+.pra p{
+    color: #fcfc;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 25px;
+
 }
