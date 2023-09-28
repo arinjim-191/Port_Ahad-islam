@@ -259,3 +259,10 @@ h5{
     justify-content: center;
 
 }
+.contact-me p{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    
+}
