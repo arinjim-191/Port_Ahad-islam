@@ -6,12 +6,11 @@
 }
 
 .hero {
-    height: 85vh;
+    height: 175vh;
     width: 100%;
     background-image: url(img/p1.jpg);
     background-size: cover;
     background-position: center;
-
 }
 nav{
     display: flex;
@@ -131,7 +130,7 @@ h4{
 .main{
     width: 1130px;
     max-width: 95%;
-    margin: 50 auto;
+    margin: 50px auto;
     display: flex;
     align-items: center;
     justify-content: space-around;
