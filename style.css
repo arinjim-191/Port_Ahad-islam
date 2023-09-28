@@ -58,7 +58,7 @@ nav ul li a:hover{
     font-weight: bold;
     padding: 10px 25px;
     border-radius: 30px;
-    transition: transtorm .4s;
+    transition: .4s;
 }
 
 .btn:hover{
@@ -281,6 +281,7 @@ h5{
     background-color: transparent;
     border: 2px solid #f9004d;
     cursor: pointer;
+    transition: .3s;
 }
 /* contect me  */
 
@@ -311,6 +312,31 @@ footer p:nth-child(2){
     text-align: center;
     line-height: 26px;
 
+}
+.social {
+    display: flex;
+
+}
+.social a {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f9004ff6;
+    border-radius: 50%;
+    margin: 22px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.social a:hover{
+   
+    
+    cursor: pointer;
+    transform: scale(1.3);
+    transition: .3s;
 }
 
 /* <!-- footer end--- --> */
