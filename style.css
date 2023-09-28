@@ -338,6 +338,11 @@ footer p:nth-child(2){
     transform: scale(1.3);
     transition: .3s;
 }
+footer .end {
+    margin-top: 20px;
+    color: #cecece;
+    
+}
 
 /* <!-- footer end--- --> */
 
