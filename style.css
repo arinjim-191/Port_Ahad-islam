@@ -340,10 +340,16 @@ footer p:nth-child(2){
 }
 footer .end {
     margin-top: 20px;
-    color: #cecece;
+    
     
 }
+.end{
+    position: absolute;
+    color: #f9004d;
+    bottom: 35px;
+    font-size: 14px;
 
+}
 /* <!-- footer end--- --> */
 
 /* <!-- ----project Done---- --> */
