@@ -177,3 +177,10 @@ button:hover{
     
 /* <!--service section start--> */
 
+.service{
+    background-color: #101010;
+    width: 100%;
+    padding: 100px 0px;
+    color: #fcfcfc;
+
+}
