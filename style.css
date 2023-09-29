@@ -447,6 +447,18 @@ footer .end {
             .contact-me p {
                 font-size: 26px;
             }
+            footer {
+                height: 300px;
+            }
+            footer p:nth-child(1) {
+                font-size: 45px;
+                margin-bottom: 11px;
+            }
+            footer p:nth-child(2) {
+               
+                font-size: 15px;
+                
+            }
 
 
 
